@@ -16,3 +16,17 @@ This VHDL code contains a clock divider that generates clock signals slower than
 <li> Clock period: 200ns </li>
 
 ![Capture2](https://github.com/kiba6563/VHDL/assets/127403893/070cf2bf-5629-4410-90d6-866713f8a80c)
+
+## CLK_1MHz:
+<li> Output Clock: 1MHz </li>
+<li> Duty Cycle: 50% </li>
+<li> Clock period: 1000ns </li>
+
+![Capture3](https://github.com/kiba6563/VHDL/assets/127403893/9020be3c-2d6f-4794-b599-512376bff259)
+
+## CLK_100kHz:
+<li> Output Clock: 100kHz </li>
+<li> Duty Cycle: 50% </li>
+<li> Clock period: 10us </li>
+
+![Capture4](https://github.com/kiba6563/VHDL/assets/127403893/6296c60c-8c4a-419c-96a3-b199cc1b8959)
